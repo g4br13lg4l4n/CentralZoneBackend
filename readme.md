@@ -1,8 +1,8 @@
 # Test CentralZone Backend
 
-## Para este test fue utilizado el Framework y Vuejs
+### Para este test fue utilizado el Framework y Vuejs
 
-## archivo de configuración .env
+### archivo de configuración .env
 ```
 APP_NAME=Laravel
 APP_ENV=local
